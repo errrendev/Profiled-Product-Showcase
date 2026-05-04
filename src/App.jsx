@@ -4,8 +4,8 @@ import Home from './Page/Home';
 import SolutionEnterprice from './Page/SolutionEnterprice';
 import Contact from './Page/Contact'
 import { RequestDemo } from './Page/RequestDemo';
-import Careers from './Page/careers';
-import JobDetail from './Page/jobDetail'
+import Careers from './Page/Careers';
+import JobDetail from './Page/JobDetail'
 import Pricing from './Page/Pricing';
 import Mission from './Page/mission';
 import About from './Page/About';
