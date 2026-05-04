@@ -3,7 +3,7 @@ import Nav from '../Component/Nav'
 import Footer from '../Component/Footer'
 import Hero from '../Component/About/hero'
 import LeadershipTeam from '../Component/About/LeadershipTeam'
-import NewsInsights from '../Component/About/newinsight'
+import NewsInsights from '../Component/About/Newinsight'
 import Subscribe from '../Component/About/Subscribe'
 import Timeline from '../Component/About/Timeline'
 
