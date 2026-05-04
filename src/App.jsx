@@ -7,8 +7,8 @@ import { RequestDemo } from './Page/RequestDemo';
 import Careers from './Page/careers';
 import JobDetail from './Page/JobDetail'
 import Pricing from './Page/Pricing';
-import Mission from './Page/mission';
-import About from './Page/About';
+import Mission from './Page/Mission';
+import About from './Page/about';
 import Blog from './Page/Blog';
 import BlogDetailPage from './Page/BlogDetail';
 
